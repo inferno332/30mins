@@ -1,6 +1,3 @@
-Certainly! Here’s the README in Markdown format:
-
----
 
 # Project Name
 
